@@ -17,7 +17,7 @@ BMI270 IMU 센서와 **확장 칼만 필터(EKF)**를 활용하여 고정밀 자
 ## 시연 영상
 ### **🎥 아래 이미지를 클릭하여 테스트 영상을 확인해 보세요!**
 <a href="https://youtu.be/IzBIH2YIv_E">
-  <img src="https://www.youtube.com/watch?v=ID1HVYqFCVA.jpg" alt="PID 제어 영상" width="100%">
+  <img src="[https://www.youtube.com/watch?v=ID1HVYqFCVA.jpg](https://www.youtube.com/watch?v=ID1HVYqFCVA)" alt="PID 제어 영상" width="100%">
 </a>
 
 ---
